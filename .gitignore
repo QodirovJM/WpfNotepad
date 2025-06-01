@@ -1,12 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿# Build and VS files
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-namespace NotepadQodirov
-{
-    class _
-    {
-    }
-}
+# VS Code settings
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Build results
+*.exe
+*.dll
+*.pdb
+
+# Other files
+*.log
+*.vs/
+_ReSharper*/
+*.cache
+*.dbmdl
+
+# OS generated files
+Thumbs.db
+Desktop.ini
