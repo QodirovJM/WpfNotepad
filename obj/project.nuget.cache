@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "b4ASmARwiT4yfdJA9IrPQFYW37SSHPb7fobiQYaCx0TwfzT0H7JuFCm1IerSm9dIkkebag6T+lISgGZeQP1YSA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\NotepadQodirov\\NotepadQodirov\\NotepadQodirov.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JAMSHID\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
+    "C:\\Users\\JAMSHID\\.nuget\\packages\\system.windows.forms.ribbon35\\3.5.8\\system.windows.forms.ribbon35.3.5.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Windows.Forms.Ribbon35 3.5.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Windows.Forms.Ribbon35",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
