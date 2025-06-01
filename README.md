@@ -23,4 +23,4 @@
 1. Установи [Visual Studio](https://visualstudio.microsoft.com/) с компонентами ".NET Desktop Development"
 2. Клонируй репозиторий:
    ```bash
-   git clone https://github.com/твоя-ссылка/notepadqodirov.git
+   git clone https://github.com/QodirovJM/WpfNotepad
